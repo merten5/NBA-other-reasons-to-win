@@ -1,0 +1,1 @@
+This is a half a semester project that I worked on in the Summer of 2024. I looked at various different reasons why an NBA team would outperform their players performance from the year before. The biggest thing was coaches (both in positive and negative).
